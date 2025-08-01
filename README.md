@@ -23,6 +23,12 @@ This project demonstrates an end-to-end pipeline for converting audio recordings
 - Torchaudio, Librosa
 - Google Colab, Google Drive
 
+## 🚀 Future Scope
+- Add speaker diarization (detect who spoke what).
+- Include sentiment/emotion analysis.
+- Create a user-friendly UI with Streamlit or Flask.
+- Build an end-to-end transcription API.
+
 ## 🔧 Installation
 ```bash
 pip install openai-whisper transformers torchaudio librosa noisereduce
